@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lazaro-jr13.github.io/PortifolioJr/sitemap.xml
